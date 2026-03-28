@@ -115,7 +115,7 @@ section { padding: 100px 60px; }
   margin-bottom: 28px;
   animation: fadeUp 0.8s ease 0.5s both;
 }
-.hero-headline em { color: var(--gold); font-style: italic; }
+.hero-headline em { color: var(--gold); font-style: normal; }
 .hero-sub {
   font-size: 15px; font-weight: 300; line-height: 1.8;
   color: var(--text-muted);
