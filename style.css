@@ -364,7 +364,7 @@ section { padding: 100px 60px; }
   color: var(--white); max-width: 580px;
   margin: 0 auto 16px;
 }
-.cta-hl em { color: var(--gold); font-style: italic; }
+.cta-hl em { color: var(--gold); font-style: normal; }
 .cta-sub {
   font-size: 13px; color: var(--text-muted);
   margin-bottom: 40px; letter-spacing: 0.06em;
