@@ -2,12 +2,12 @@
 *, *::before, *::after { box-sizing: border-box; margin: 0; padding: 0; }
 
 :root {
-  --navy: #1C2840;
-  --navy-deep: #141d30;
-  --gold: #C9A84C;
+  --navy: #1f2a44;
+  --navy-deep: #162036;
+  --gold: #c9a34a;
   --gold-light: #e0c070;
-  --cream: #F2EFE9;
-  --cream-dark: #E8E4DC;
+  --cream: #f6f4ef;
+  --cream-dark: #ede9e2;
   --white: #FFFFFF;
   --text-muted: rgba(242,239,233,0.55);
   --text-muted-dark: rgba(28,40,64,0.5);
