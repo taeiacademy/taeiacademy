@@ -41,7 +41,7 @@ nav.scrolled {
 }
 .nav-logo span { color: var(--gold); }
 .nav-logo-img {
-  height: 52px;
+  height: 80px;
   width: auto;
   display: block;
   object-fit: contain;
@@ -108,7 +108,7 @@ section { padding: 100px 60px; }
 }
 .hero-headline {
   font-family: 'Plus Jakarta Sans', sans-serif;
-  font-size: clamp(42px, 6vw, 72px);
+  font-size: clamp(32px, 4.5vw, 56px);
   font-weight: 300; line-height: 1.15;
   color: var(--white);
   max-width: 780px;
